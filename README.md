@@ -1,2 +1,2 @@
 # Teleco_Market_basket_analysis
-Basic look into market basket analysis using Teleco data
+Brief demonstration of Basket analysis and Basic time series using Teleco data. This is in the spirit of make something quickly and then iterate. 
